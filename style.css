@@ -2,6 +2,7 @@ header {
     display: flex;
     justify-content: space-between;
     color: #F9FAF8;
+    padding-top: 9px;
 }
 
 .hlogo {
@@ -13,6 +14,22 @@ header {
     color: #e5e7eb;
 }
 
+a {
+    padding: 9px;
+}
+
+.hrowtwo {
+    display: flex;
+
+}
+
+#placeholder {
+    height: 150px;
+    width: 300px;
+    background-color: gray;
+    text-align: center;
+}
+
 #hrtwotext {
     font-size: 18px;
     color: #e5e7eb;
@@ -20,6 +37,8 @@ header {
 
 .headcontainer {
     background-color: #1f2937;
+    padding-left: 96px;
+    padding-right: 96px;
 }
 
 h1 {
