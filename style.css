@@ -20,6 +20,8 @@ a {
 
 .hrowtwo {
     display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
@@ -35,10 +37,20 @@ a {
     color: #e5e7eb;
 }
 
+.hrtchildone {
+    width: 300px;
+    padding-right: 18px;
+}
+
+.hrtchildtwo {
+    padding-left: 18px;
+}
+
 .headcontainer {
     background-color: #1f2937;
     padding-left: 96px;
     padding-right: 96px;
+    padding-bottom: 96px;
 }
 
 h1 {
