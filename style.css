@@ -1,0 +1,29 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    color: #F9FAF8;
+}
+
+.hlogo {
+    font-size: 24px;
+}
+
+.hrightlinks {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+#hrtwotext {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.headcontainer {
+    background-color: #1f2937;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
