@@ -51,10 +51,20 @@ a {
     padding-left: 96px;
     padding-right: 96px;
     padding-bottom: 96px;
+    flex: auto; 
 }
 
 h1 {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+}
+
+button {
+    background-color: #3882f6;
+    color: #F9FAF8;
+    border-radius: 5px;
+    padding-left: 18px;
+    padding-right: 18px;
+    border: none;
 }
