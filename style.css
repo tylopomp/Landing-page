@@ -68,3 +68,11 @@ button {
     padding-right: 18px;
     border: none;
 }
+
+h2 {
+    text-align: center;
+}
+
+.htwoimages {
+    display: flex;
+}
