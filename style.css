@@ -5,6 +5,10 @@ header {
     padding-top: 9px;
 }
 
+body {
+    font-family: sans-serif;
+}
+
 .hlogo {
     font-size: 24px;
 }
@@ -114,4 +118,35 @@ h2 {
     font-weight: bolder;
     width: 600px;
     text-align: end;
+}
+
+.signupbot {
+    display: flex;
+    justify-content: center;
+    margin-top: 96px;
+    margin-bottom: 96px;
+}
+
+.signupbox {
+    width: 700px;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 96px;
+    padding-right: 96px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    border-radius: 10px;
+}
+
+.signupleft {
+    color: #F9FAF8;
+}
+
+.signupright {
+    border-width: 2px;
+    border-color: #F9FAF8;
+    border-style: solid;
+    border-radius: 10px;
 }
