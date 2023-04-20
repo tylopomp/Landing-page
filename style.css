@@ -7,6 +7,10 @@ header {
 
 body {
     font-family: sans-serif;
+    flex: auto;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
 }
 
 .hlogo {
@@ -149,4 +153,15 @@ h2 {
     border-color: #F9FAF8;
     border-style: solid;
     border-radius: 10px;
+}
+
+.footer {
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    color: #F9FAF8;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    flex: auto;
 }
