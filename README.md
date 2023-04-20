@@ -1,0 +1,1 @@
+I didnt have anything creative to add and still a lot to learn, so i just went for recreating the images based off the styling prompts in the instructional image.
